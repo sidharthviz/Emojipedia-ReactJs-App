@@ -6,7 +6,12 @@ const emojiPedia = {
   "😞": "Grief",
   "🤔": "Thoughful",
   "😊": "Smiling",
-  "❤️": "Like"
+  "❤️": "Like",
+  "😅": "Grinning",
+  "🏠": "Work from Home",
+  "👮": "police",
+  "🧘": "Meditating",
+  "🚶‍♂️": "Walking"
 };
 
 var emojiweKnow = Object.keys(emojiPedia);
